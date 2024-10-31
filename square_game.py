@@ -1,7 +1,5 @@
-# File: CS112_A1_T2_GAME3_20231194
 # Purpose: "this a  strategic game for two called Subtract a Square, players compete to take the last coin from a shared pile. They can only remove square numbers of coins at each turn. The winner is the one who makes the final move."
 # Author: Nourhan Ahmed Hussien
-# ID: 20231194
 
 
 # List of non-zero square numbers
